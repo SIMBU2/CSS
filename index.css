@@ -1,0 +1,22 @@
+.first-color{
+    background-color: turquoise;
+    color: powderblue;
+}
+
+.percentage{
+    width: 50%;
+    
+    text-align: center;
+    border: 2px solid black;
+    height: 120px;
+}
+.secondpercentage{
+    width: 50%;
+}
+
+.em{
+    font-size: 20px;
+}
+.ems{
+    font-size: 2em;
+}
