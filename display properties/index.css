@@ -1,0 +1,24 @@
+*{
+    margin: o;
+}
+.one{
+    display: block;
+}
+.two li{
+    display: inline;
+    flex-direction: column;
+    padding: 10px;
+    /* margin-top: 10px;not work because inline */
+}
+.three{
+     display: inline-block;
+    flex-direction: column;
+    padding: 10px;
+    margin-top: 10px;
+    
+
+}
+body{
+    background-color: aqua;
+}
+
